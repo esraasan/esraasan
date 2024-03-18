@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://i.gifer.com/Gjnl.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3l5NWVhejA1Y3o0NGZsdXJ1bDlsNjlpd2dja2o0OWZ4cWNxeDQ0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)"/>
+  <img src="https://i.gifer.com/Gjnl.gif"/>
 
 </div>
 <h1 align="center">Hi 👋, I'm Esra</h1>
