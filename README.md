@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3l5NWVhejA1Y3o0NGZsdXJ1bDlsNjlpd2dja2o0OWZ4cWNxeDQ0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNwNmx2YW9zOW9kM2o2aHFsdnBpOWYxOGw3YmhyN21uaTB0bzJxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XE90Rm9DzCVfHb7zTe/giphy.gif"/>
+
+<img scr"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNybHd5aWIyaDg1a245cHFlN3NtZjdxMjJyNmVyeDNqNHI0cWtjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ed7RrrCi4r7h5NoQI2/giphy.gif" />
+
 </div>
 <h1 align="center">Hi 👋, I'm Esra</h1>
 <h3 align="center">A passionate jr.junior from Türkiye</h3>
