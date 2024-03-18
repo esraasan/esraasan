@@ -6,9 +6,6 @@
 <h1 align="center">Hi 👋, I'm Esra</h1>
 <h3 align="center">A passionate jr.junior from Türkiye</h3>
 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esraasan&show_icons=true&locale=en&layout=compact" alt="esraasan" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esraasan&show_icons=true&locale=en" alt="esraasan" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esraasan&" alt="esraasan" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=esraasan&show_icons=true&locale=en&layout=compact" alt="esraasan" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=esraasan&show_icons=true&locale=en" alt="esraasan" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=esraasan&" alt="esraasan" /></p>
