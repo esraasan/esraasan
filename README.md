@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img scr="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNybHd5aWIyaDg1a245cHFlN3NtZjdxMjJyNmVyeDNqNHI0cWtjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ed7RrrCi4r7h5NoQI2/giphy.gif" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNybHd5aWIyaDg1a245cHFlN3NtZjdxMjJyNmVyeDNqNHI0cWtjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ed7RrrCi4r7h5NoQI2/giphy.gif" />
 
 </div>
 <h1 align="center">Hi 👋, I'm Esra</h1>
