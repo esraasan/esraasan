@@ -1,4 +1,4 @@
-https://i.pinimg.com/736x/d1/ef/81/d1ef818df1a8a6a07a607b4c3ca83874.jpg
+<img src:"ttps://i.pinimg.com/736x/d1/ef/81/d1ef818df1a8a6a07a607b4c3ca83874.jpg">
 
 <h1 align="center">Hi 👋, I'm Esra</h1>
 <h3 align="center">A passionate jr.junior from Türkiye</h3>
