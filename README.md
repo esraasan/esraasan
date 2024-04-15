@@ -4,7 +4,7 @@
 
 </div>
 <h1 align="center">Hi 👋, I'm Esra</h1>
-<h3 align="center">A passionate jr.junior from Türkiye</h3>
+<h3 align="center">A passionate jr.developer from Türkiye</h3>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=esraasan&show_icons=true&locale=en&layout=compact" alt="esraasan" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=esraasan&show_icons=true&locale=en" alt="esraasan" /></p>
